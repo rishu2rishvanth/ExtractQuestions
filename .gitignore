@@ -1,0 +1,25 @@
+# Python
+venv/
+venv/Lib/site-packages/numpy/_core/memmap.py
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Temp or data files
+*.xlsx
+*.txt
+!rawQuestions.txt
+!answers.txt
+*.jpg
+
+Some codes
+!requirements.txt
