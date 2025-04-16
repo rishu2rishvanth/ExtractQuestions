@@ -7,7 +7,7 @@ data_dir = base_dir / 'data'
 
 # Step 2: Define file paths relative to the script
 input_file = data_dir / 'answers.txt'
-output_file = data_dir / 'answer_dict.xlsx'
+output_file = data_dir / 'answer_dict.txt'
 
 # Function to convert answers string into a dictionary
 def convert_to_dict(input_string):
