@@ -1,0 +1,346 @@
+1. You recently took over a project in the middle of executing
+from another project manager who left the organization. You
+became extremely worried to find out that a substantial amount of
+new change requests are coming from your key stakeholders,
+customers, and even from your manager. You are anxious that the
+changes will drastically increase the cost and time of the project,
+and you are not sure about how to process these incoming change
+requests. What should you refer to for any kind of help in this
+situation? 
+(A) The previous project manager who can provide guidance and relevant information
+(B) The project charter to find out the key success criteria from the stakeholders
+(C) The project requirements document to know more about the project requirements
+(D) The Project Management Plan
+2. John, the project manager, is in the process of Develop Project
+Charter to develop a document to formally authorize a project or a
+phase and identify the business objectives and needs, current
+understanding of the stakeholders’ expectations, and the new
+product, service, or result that it is intended to satisfy. Which one
+of the following is NOT an input to this Develop Project Charter
+process?
+(A) Enterprise Environmental Factors
+(B) Business Documents – Business Case and Benefits Management Plan
+(C) Agreements
+(D) Project Management Plan
+3. Which one of the following is FALSE about change management in
+a project?
+(A) “Influencing the factors that affect change” means determining the source of changes and fixing the root causes.
+(B) Whenever there is a change request, the project manager should evaluate the impact on project objectives such as scope, time, cost, quality, risk, resources, and other factors.
+(C) The project manager should make all the effort to prevent unnecessary changes in the project.
+(D) The project manager should make the change happen as soon as possible to meet and exceed customer expectations.
+4. Your manager mentioned to you that the present value of a
+project is $350,000 and asked you to find out the future value that
+the project will have four years from now if the expected interest
+rate is 8 percent. What is the future value in this case?
+(A) $350,000
+(B) $400,000
+(C) $476,000
+(D) $257,352
+5. Which one of the following statements is NOT true about the
+Project Management Plan?
+(A) It is a single-approved document that defines how the project is executed, monitored and controlled, and closed.
+(B) It is developed through a series of integrated processes.
+(C) It is progressively elaborated by updates and controlled and approved through the Perform Integrated Change Control process.
+(D) It provides project inputs, tools & techniques, and outputs to be used on the project for the purpose of managing the product of the project.
+6. You are a technical specialist and domain expert working on an
+IT project to implement a new console video game. There is a
+change control process in place, and the project scope is already
+signed off by the sponsor and key stakeholders. While having a
+casual conversation with one of the stakeholders, you realize that
+a simple change in the design will add a great feature to the
+project. Since there is no visible impact, you made the change to
+the project without informing the project manager. What kind of
+reaction should you expect from the project manager?
+(A) The project manager should simply ignore the change since it had no visible impact.
+(B) You should be informed that your action was inconsistent with the change management plan, and this kind of unauthorized action should not be repeated again.
+(C) The project manager should get the customer sign-off on the implemented change.
+(D) You should be recognized for exceeding customer expectations without affecting the project cost or schedule.
+7. You are approaching the end of your project and have been
+asked to release the resources so that they can be assigned to other
+projects. Before releasing the resources, you want to make sure
+that you have completed the necessary actions. Which of the
+following is the correct order of actions that you take during the
+closing process?
+(A) Get formal acceptance, write lessons learned, release the team, and close the contract.
+(B) Get formal acceptance, release the team, write lessons learned, and close the contract.
+(C) Write lessons learned, release the team, get formal acceptance, and close the contract.
+(D) Release the team, get formal acceptance, close the contract, and write lessons learned.
+8. While overseeing the implementation of a new computer
+infrastructure at the local hospital, you notice that a substantial
+amount of change requests have originated from one single key
+stakeholder. The stakeholder is also insisting that all of his
+requests should be implemented as soon as possible. What will be
+your BEST course of action?
+(A) Ask the sponsor to have a discussion with the key stakeholder and ask him not to request so many changes to the project.
+(B) Call the stakeholder and request him not to send any more change requests.
+(C) Have a meeting with the stakeholder to review the change process in the project and determine the causes of his changes.
+(D) Assign a team member to work solely with the stakeholder to understand his needsand expectations.
+9. Which one of the following statements is FALSE about theProject
+Management Information System (PMIS)?
+(A) It is incorporated as part of the Enterprise Environmental Factors (EEFs) to several processes since it is part of the environment in which the project is performed.
+(B) It is an automated system that can serve as a repository for information and a tool to assist with communication and with tracking documents and deliverables.
+(C) It consists of the data sources and the tools & techniques used to gather, integrate, analyze, and disseminate the results of the combined outputs of the project management processes.
+(D) It defines how the project is executed, monitored and controlled, and closed.
+10. Ashley is overseeing an IT project to implement a payroll
+system for a local doctor’s office. The project has twelve team
+members and nine stakeholders, and it is supposed to be
+completed in six months. Ashley was unaware that a modification
+request to the product specifications by one of the stakeholders
+was immediately implemented by the project team. During the
+final testing, Ashley was surprised to find out that there was a
+major variance between the actual test results and the planned
+results. Which one of the following is a contribution to this kind
+of adverse consequence?
+(A) Poor Quality Management Plan
+(B) Lack of commitment to the change control process
+(C) Poor definition of the test plan
+(D) Lack of adherence to the communication plan
+11. You have just been assigned as a project manager to
+implement a web-based accounting software for one of your
+clients. You have chosen a specific change-driven product
+development life cycle for the implementation of your project. As
+you are expecting many changes during the course of the project,
+you want to establish a robust configuration management system
+to describe the different versions and characteristics of the
+product, service, or result of the project and to ensure the
+accuracy and completeness of the description. Which of the
+following statements is FALSE about configuration management?
+(A) It includes configuration identification, configuration status accounting, and configuration verification and audit.
+(B) It focuses on establishing and maintaining consistency of a product’s requirements.
+(C) It compares the actual project performance against the project management plan and determines whether any corrective or preventive actions are required.
+(D) Its purpose is to maintain integrity of the work product.
+12. You just received a change request from the customer, which
+will require an additional $2,000 and will also delay the project by
+two weeks. The customer mentioned that they were OK with the
+delay and were willing to pay for the extra amount as the new
+change will drastically improve their business automation. As per
+your organizational policy, you are supposed to get the project
+office’s approval for any change that will extend the project
+duration by more than a week. What should you do in this
+situation? 
+(A) Discuss the change with the project office.
+(B) Do not allow the change since it would extend the project duration by more than one week.
+(C) Allow the change and ask the team member to implement it since it will drastically help the customer and the customer is paying for the change anyway.
+(D) Advise the customer to take the change request to the project office and explain to them the importance of the change and his/her willingness to pay for it.
+13. The Project Management Information System (PMIS), such as
+any automated system that can be utilized during the Direct and
+Manage Project Work process, will include all of the following
+EXCEPT: 
+(A) A tool & technique to identify the internal and external stakeholders.
+(B) An information collection and distribution system.
+(C) A configuration management system.
+(D) A scheduling software tool.
+14. One of your colleagues recently took over a project and
+expressed her concern to you about the new changes that may be
+streaming in from various sources. What is the best piece of
+advice you can offer her regarding changes and where she should
+devote most of her attention?
+(A) Implementing changes as accurately as possible
+(B) Tracking and recording all changes as accurately as possible
+(C) Preventing unnecessary changes in the project as much as possible
+(D) Informing the sponsor about all changes
+15. Which one of the following is a subset of the Project
+Management Information System (PMIS) that describes the
+different versions and characteristics of the product, service, or
+result of the project and ensures accuracy and completeness of the
+description?
+(A) Quality Control
+(B) Configuration Management
+(C) Scope Change Control
+(D) Product Change Control
+16. A project is just initiated under a contract in your organization,
+and you were assigned as the project manager. You were
+expecting a Statement of Work (SOW), which will describe the
+business need, product scope, and other elements. In this case,
+from whom should you expect the SOW?
+(A) The project sponsor
+(B) The buyer
+(C) The contractor
+(D) The Project Management Office (PMO)
+17. While managing a data center project, you used a
+Configuration Management System to describe the different
+versions and characteristics of the product, service, or result of the
+project and to ensure the accuracy and completeness of the
+description. All of the following are configuration management
+activities in the Integrated Change Control process EXCEPT:
+(A) Configuration verification and audit
+(B) Configuration identification
+(C) Forecasting and variance analysis
+(D) Configuration status accounting
+18. You are a project manager at a dairy farm that offers several
+dairy products to its clients in different states, especially on the
+West Coast. You have sent a few of your team members to China
+to get specialized training on a spectacular dairy food processing
+equipment recently introduced in the market. The team members
+just completed the training, and this is one of the work results you
+have collected and recorde(D) This output describes which of the
+following in the Direct and Manage Project Work process?
+(A) Deliverables
+(B) Work Performance Data
+(C) Change requests
+(D) Project Management Plan update
+19. All of the following statements are true regarding assumptions
+EXCEPT:
+(A) Assumptions are factors used for planning purposes and may be communicated to a project team by several different stakeholders.
+(B) Assumptions are generally considered to be true, real or certain, and nonfactual.
+(C) Assumptions are absolute and nonnegotiable.
+(D) Failure to validate assumptions may result in significant riskevents.
+20. You are one of the members of the project prioritization and
+selection committee in your organization. The selection team is
+debating between two projects, which are both considered to be
+very important. The organization has to make an initial
+investment of $250,000 with expected cash inflows of $75,000 in
+the first year and $25,000 per quarter thereafter for the first
+project. The second project has a payback period of thirty-five
+months. Based solely on this information, which project should
+the selection committee recommend?
+(A) First project as it has a smaller payback period
+(B) Second project as it has a smaller payback period
+(C) None of them since both of them have the same payback period
+(D) Either of the two projects since payback period is not important
+21. You are the project manager for a cable service provider that
+is providing Internet, TV, and phone service throughout the
+United States. Your company recently introduced its service in
+Canada and made you the project manager for a critical project,
+which is two months in execution at this time. You are reporting
+on project elements such as deliverable status, schedule progress,
+resource utilization, costs incurred, and others. Which of the
+following outputs of the Direct and Manage Project Work does
+this describe?
+(A) Deliverables
+(B) Work Performance Data
+(C) Change requests
+(D) Project Management Plan update
+22. While managing a large construction project, you are ready to
+assign resources to the project using a work authorization system.
+All of the following statements are true about a work
+authorization system EXCEPT:
+(A) It is a formal, documented procedure to describe how to authorize and initiate work in the correct sequence at the appropriate time.
+(B) It is a tool & technique of the Monitor and Control Project Work process.
+(C) It is a component of the enterprise environmental factors, which are inputs in the Monitor and Control Project Work process.
+(D) It is used throughout the project executing process.
+23. You are working as a project manager at a consulting firm and
+recently received a Statement of Work (SOW) from the client. As
+per your expectation, the SOW should contain or reference which
+of the following elements?
+(A) Business need, product scope description or what is to be done, and how the project supports the strategic plan
+(B) Measurable project objectives, business need, product scope description or what is to be done, and how the project supports the strategic plan
+(C) Project purpose, business need, product scope description or what is to be done, and how the project supports the strategic plan
+(D) Business need, product scope description or what is to be done, and project purpose
+24. You are the project manager for IT Pro Consultancy. You have
+a project in mind that will be able to meet the strategic objective
+of your organization. While evaluating the project, your team
+found out that the project would cost $600,000. Since you are
+introducing a new potential product in the market, you are very
+hopeful that your expected inflows will be $30,000 per quarter for
+the first two years and then $90,000 per quarter thereafter. What is
+the payback period of this project?
+(A) Thirty-six months
+(B) Thirty-eight months
+(C) Forty-eight months
+(D) Fifty-two months
+25. While managing a data recovery project, you are performing
+the following activities: comparing actual project performance
+against the project management plan, analyzing, tracking,
+monitoring project risks, assessing performance to determine
+whether any corrective or preventive actions are required,
+providing information to support status reporting, monitoring
+implementation of approved changes, providing forecasts to
+update current costs and schedule information, and other things.
+Which process are you in at this time?
+(A) Manage Stakeholder Expectations
+(B) Monitor and Control Risks
+(C) Direct and Manage Project Work
+(D) Monitor and Control Project Work
+26. Your company can accept one of three possible projects.
+Project A has a Net Present Value (NPV) of $30,000, it will take
+five years to complete, and the associated cost will be $10,000.
+Project B has a NPV of $60,000, it will take three years to
+complete, and the cost will be $15,000. Project C has a NPV of
+$80,000, it will take four years to complete, and it will cost
+$40,000. Based on the information, which project would you
+pick?
+(A) They all have the same value
+(B) Project A
+(C) Project B
+(D) Project C
+27. A project manager for a pharmaceutical project is reviewing
+the project contract and going through the narrative description of
+products and services to be supplied under the contract. He is
+meeting with subject matter experts, key stakeholders, and
+business analysts to evaluate whether or not the project is worth
+the required investment of $1 million. He also asked the team
+members to carry out a feasibility study on the project and report
+to him the findings as soon as possible. Which of the following
+documents would be created as an output in the process?
+(A) Project Management Plan
+(B) Project Statement of Work
+(C) Project Charter
+(D) Requirements Documentation
+28. All of the following statements regarding Integration Management
+are true EXCEPT:
+(A) The need for Integration Management is one of the major driving forces for communication in a project.
+(B) Project integration is a key responsibility of the project team.
+(C) The project manager’s role as an integrator is to put all the pieces of a project into a cohesive whole.
+(D) Project Integration Management is the set of combined processes implemented by the project manager to ensure all the elements of the project are effectively coordinated.
+29. The Scope Management Plan, Schedule Management Plan,
+Schedule Baseline, Process Improvement Plan, Change
+Management Plan, and others are which one of the following to
+the project plan?
+(A) Subsidiaries
+(B) Appendixes
+(C) Constraints
+(D) Glossary
+30. There are several potential projects in your organization.
+Unfortunately, the organization doesn’t have the time, resources,
+or cash to work on all those projects. The senior management is
+particularly interested in two projects and ask you to identify the
+best one to work on based on the Net Present Value (NPV). While
+exploring those two projects, you discovered the following:
+Project Alpha:
+Investment needed: $ 135,000
+Benefit: End of 1st year: $0, End of 2nd year: $75,000, End of 3rd year:
+89,000
+Project Beta:
+Investment needed: $ 120,000
+Benefit: End of 1st year: $55,000, End of 2nd year: 79,000
+Assume an interest rate of 6%, which project should you recommend?
+(A) Project Alpha
+(B) Project Beta
+(C) Neither of the projects should be recommended
+(D) Both projects should be recommended
+31. You are working on a construction project and successfully
+completed all the work. Your stakeholders were very pleased and
+recently communicated their final acceptance of the project. You
+are now meeting with your team to update the organizational
+process assets with a record of knowledge gained about the
+project to help future project managers with their projects. Once
+the lessons learned is completed, what should you do next?
+(A) Release the team.
+(B) Close the contract.
+(C) Get formal acceptance.
+(D) Write lessons learned.
+32. Your cyber security implementation project has a Schedule
+Performance Index (SPI) of 1.2 and Cost Performance Index
+(CPI) of 1.3. Now that you are ahead of schedule and under
+budget, you can add work without delaying your project or
+exceeding the budget. You realized that throughout the project,
+your team made several mistakes and ignored few best methods
+for securing the network and preventing various types of attack.
+Your sponsor was very disappointed that a Denial of Service
+(DOS) attack was carried out against your organization recently.
+You tried to identify information on similar mistakes from
+previous projects but failed to identify any relevant Lessons
+Learned Register. You decided to develop a Lesson Learned
+Register that you need to update:
+(A) At the completion of the entire project
+(B) At the completion of each phase
+(C) Bi weekly
+(D) Throughout the project
+33. You are in the Close Project or Phase process of your
+construction project. All of the following occur during this
+process EXCEPT:
+(A) Confirm work completion to requirements
+(B) Determine the Net Present Value of the project
+(C) Gain formal acceptance of the product
+(D) Hand off completed product

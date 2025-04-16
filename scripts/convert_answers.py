@@ -1,8 +1,13 @@
 import json
+from pathlib import Path
 
-# Paths to input and output files
-input_file = "D:/website/ExtractQuestions-1/data/answers.txt"
-output_file = "D:/website/ExtractQuestions-1/data/answer_dict.txt"
+# Step 1: Get the current directory (where this script is located)
+base_dir = Path(__file__).resolve().parent
+data_dir = base_dir / 'data'
+
+# Step 2: Define file paths relative to the script
+input_file = data_dir / 'answers.txt'
+output_file = data_dir / 'answer_dict.xlsx'
 
 # Function to convert answers string into a dictionary
 def convert_to_dict(input_string):

@@ -3,14 +3,19 @@ import pandas as pd
 import re
 import os
 import json
+from pathlib import Path
 
-# Call convert_answers.py
-subprocess.run(['python', 'convert_answers.py'], check=True)
+# Step 1: Get the current directory (where this script is located)
+base_dir = Path(__file__).resolve().parent
+data_dir = base_dir / 'data'
 
-# Paths to the input and output files
-input_file = "D:/website/ExtractQuestions-1/data/rawQuestions.txt"  # Update with your actual path
-output_file = "D:/website/ExtractQuestions-1/data/rawQuestions.xlsx"  # Update with your actual path
-answers_file = "D:/website/ExtractQuestions-1/data/answer_dict.txt"  # Path to the answers file
+# Step 2: Define file paths relative to the script
+input_file = data_dir / 'rawQuestions.txt'
+output_file = data_dir / 'rawQuestions.xlsx'
+answers_file = data_dir / 'answer_dict.txt'
+
+# Step 3: Run convert_answers.py (assumed to be in the same directory)
+subprocess.run(['python', str(base_dir / 'convert_answers.py')], check=True)
 
 # Function to read correct answers from a JSON file
 def read_correct_answers(file_path):
