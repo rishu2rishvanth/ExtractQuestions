@@ -9,6 +9,11 @@ data_dir = base_dir / 'data'
 input_file = data_dir / 'answers.txt'
 output_file = data_dir / 'answer_dict.txt'
 
+# Function to replace ABCD to 0123
+def replace_answers_with_numbers(answer):
+    answer_map = {'A': '0', 'B': '1', 'C': '2', 'D': '3'}
+    return answer_map.get(answer.upper(), answer)  # Default to the original if not A, B, C, or D
+
 # Function to convert answers string into a dictionary
 def convert_to_dict(input_string):
     # Split the string into parts based on spaces
@@ -23,6 +28,9 @@ def convert_to_dict(input_string):
         question_number = parts[i].strip('.')
         answer = parts[i + 1]
         
+        # Replace the answer letter with a number
+        answer = replace_answers_with_numbers(answer)
+
         # Add to dictionary
         result_dict[question_number] = answer
     
